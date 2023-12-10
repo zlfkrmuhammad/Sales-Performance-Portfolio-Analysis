@@ -44,7 +44,6 @@ Click here to try 👇
 <br />
 <br />
 
-<a href="https://public.tableau.com/views/BrazilianE-CommerceSalesPerformance/SalesPerformanceDashboard?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software-light.png" alt="Tableau Light" width="30px" align="left"></a>
-<a href="https://public.tableau.com/views/BrazilianE-CommerceSalesPerformance/SalesPerformanceDashboard?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software-dark.png" alt="Tableau Dark" width="30px" align="left"></a>
+<a href="https://public.tableau.com/views/BrazilianE-CommerceSalesPerformance/SalesPerformanceDashboard?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="30px" align="left"></a>
 
 [webdev]: https://github.com/zlfkrmuhammad/Sales-Performance-Portfolio-Analysis
