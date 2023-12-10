@@ -48,17 +48,3 @@ Click here to try 👇
 <a href="https://public.tableau.com/views/BrazilianE-CommerceSalesPerformance/SalesPerformanceDashboard?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software-dark.png" alt="Tableau Dark" width="30px" align="left"></a>
 
 [webdev]: https://github.com/zlfkrmuhammad/Sales-Performance-Portfolio-Analysis
-
-<style>
-  @media (prefers-color-scheme: dark) {
-    img[src*="tableau-software-light"] {
-      display: none;
-    }
-  }
-
-  @media (prefers-color-scheme: light) {
-    img[src*="tableau-software-dark"] {
-      display: none;
-    }
-  }
-</style>
