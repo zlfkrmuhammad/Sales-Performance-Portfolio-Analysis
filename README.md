@@ -40,7 +40,7 @@ In this data analysis portfolio, I present an in-depth analysis of sales data us
 
 With this project, a comprehensive data analysis methodology was applied to produce visualizations that can provide a deep understanding of sales performance, customer satisfaction, and other key factors in a business.
 
-### Click Here To Try 👇
+### [Click Here To Try](https://public.tableau.com/views/BrazilianE-CommerceSalesPerformance/SalesPerformanceDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 <a href="https://public.tableau.com/views/BrazilianE-CommerceSalesPerformance/SalesPerformanceDashboard?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="30px" align="left"></a>
 
