@@ -39,3 +39,6 @@ In this data analysis portfolio, I present an in-depth analysis of sales data us
    - Comparison of average delivery times between states allows further understanding of delivery performance.
 
 With this project, a comprehensive data analysis methodology was applied to produce visualizations that can provide a deep understanding of sales performance, customer satisfaction, and other key factors in a business.
+
+Click here to try 👇
+[![website](https://cdn.worldvectorlogo.com/logos/tableau-software.svg)](https://www.linkedin.com/in/zlfkrmuhammad/#gh-light-mode-only)
