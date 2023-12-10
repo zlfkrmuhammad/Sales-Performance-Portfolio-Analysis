@@ -42,6 +42,8 @@ With this project, a comprehensive data analysis methodology was applied to prod
 
 Click here to try 👇
 <br />
+<br />
+
 <a href="https://public.tableau.com/views/BrazilianE-CommerceSalesPerformance/SalesPerformanceDashboard?:language=en-US&:display_count=n&:origin=viz_share_link" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="30px" align="left"></a>
 
 [webdev]: https://github.com/zlfkrmuhammad/Sales-Performance-Portfolio-Analysis
